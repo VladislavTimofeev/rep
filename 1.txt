@@ -1,6 +1,6 @@
 String 1
-String 2
-String 3
+Integer
+boooooooool
 String 4
 String 5
 String 6
