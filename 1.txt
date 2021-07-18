@@ -2,8 +2,8 @@ String 1
 Integer
 boooooooool
 String 4
-String 5
-String 6
+qwerty
+operator
 MyCarIsFast
 String 8
 ILoveYou
